@@ -534,8 +534,8 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
+          title: "Full Stack Web Developer",
+          company: "A2zTechvalley",
           company_url: "https://legatohealthtech.com/",
           logo_path: "legato_logo.png",
           duration: "June 2020 - Aug 2021",
@@ -545,8 +545,8 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
+          title: "Backend Developer",
+          company: "Fresh Spar",
           company_url: "https://www.linkedin.com/company/muffito-inc/about/",
           logo_path: "muffito_logo.png",
           duration: "May 2018 - Oct 2018",
@@ -556,14 +556,14 @@ const experience = {
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
+          title: "Front End Developer and Digital Marketer",
+          company: "KarmaDev Pvt. Ltd.",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "freecopy_logo.png",
           duration: "Nov 2017 - Dec 2017",
           location: "Ahmedabad, Gujarat",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "KarmaDev is the Start up from Vellalar Institute Of Technology, TamilNadu. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People and Digital Marketing.",
           color: "#fc1f20",
         },
       ],
