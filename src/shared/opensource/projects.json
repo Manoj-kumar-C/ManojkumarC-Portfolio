@@ -68,10 +68,10 @@
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
+      "name": "20 Mini Projects only using the Front End ",
       "createdAt": "2021-11-26T17:56:07Z",
       "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "description": "⚙️ 20 Mini Projects to get familiar with Front End Technologies such as Html, Css, Js",
       "isFork": false,
       "languages": [
         {
@@ -82,10 +82,10 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
+      "name": "Echo Bot",
       "createdAt": "2021-01-06T06:36:41Z",
       "url": "https://github.com/ashutosh1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
+      "description": "🚀  Customizable Telegram Bot for the College bot contains Event Update, food Order etc..",
       "isFork": false,
       "languages": [
         {

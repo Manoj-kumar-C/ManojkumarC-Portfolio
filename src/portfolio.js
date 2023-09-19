@@ -166,6 +166,13 @@ const skills = {
             color: "#02569B",
           },
         },
+        {
+          skillName: "Wordpress",
+          fontAwesomeClassname: "skill-icons:wordpress",
+          style: {
+            color: "#02569B",
+          },
+        },
       ],
     },
     {
@@ -382,7 +389,7 @@ const degrees = {
     {
       title: "Sri Krishna College Of Engineering and Technology",
       subtitle: "B.Tech. in Computer Science and Business System",
-      logo_path: "iiitk_logo.png",
+      logo_path: "ski_logo.png",
       alt_name: "SKCET Coimbatore",
       duration: "2021 - 2025",
       descriptions: [
@@ -411,22 +418,22 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
+      title: "Cloud Computing",
       subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      logo_path: "nptel_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
+      alt_name: "IIT Madras",
+      color_code: "#FFBB0099",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
+      title: "Full Stack Development",
+      subtitle: "- Stephen Grider ",
+      logo_path: "udemy_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
       alt_name: "deeplearning.ai",
-      color_code: "#00000099",
+      color_code: "white",
     },
     {
       title: "ML on GCP",
