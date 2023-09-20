@@ -741,40 +741,35 @@ const publications = {
       name: "Artificial Intelligence Paper",
       createdAt: "2020-03-06T16:26:54Z",
       description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      url: "https://manoj--chandran.hashnode.dev/",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
       name: "Artificial Intelligence Paper",
       createdAt: "2020-03-06T16:26:54Z",
       description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      url: "https://manoj--chandran.hashnode.dev/",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
       name: "Artificial Intelligence Paper",
       createdAt: "2020-03-06T16:26:54Z",
       description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      url: "https://manoj--chandran.hashnode.dev/",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
       name: "Artificial Intelligence Paper",
       createdAt: "2020-03-06T16:26:54Z",
       description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      url: "https://manoj--chandran.hashnode.dev/",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
       name: "Artificial Intelligence Paper",
       createdAt: "2020-03-06T16:26:54Z",
       description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      url: "https://manoj--chandran.hashnode.dev/",
     },
   ],
 };
@@ -791,7 +786,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://manoj--chandran.hashnode.dev/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
@@ -803,7 +798,7 @@ const contactPageData = {
     postalCode: "641008",
     streetAddress: "Bk Pudur",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://maps.app.goo.gl/6Zh3bEYQmFCax6Ly5",
   },
   phoneSection: {
     title: "Phone",
