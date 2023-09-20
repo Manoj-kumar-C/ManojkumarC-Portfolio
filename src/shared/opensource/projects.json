@@ -35,17 +35,31 @@
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "NextJs",
+          "iconifyClass": "logos:nextjs-icon"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "Anime Css",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+      "name": "Animation Css",
+      "createdAt": "2021-02-11T14:50:20Z",
+      "url": "https://github.com/manoj-chandran/Animation.css",
       "description": "🌀 My Own Customized Animation Library for the Developer Community .",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "20 Mini Projects only using the Front End ",
+      "createdAt": "2021-11-26T17:56:07Z",
+      "url": "https://github.com/manoj-chandran/20-Mini-Projects-Using-HTML-CSS-JS-before-New-Year-2022",
+      "description": "⚙️ 20 Mini Projects to get familiar with Front End Technologies such as Html, Css, Js",
       "isFork": false,
       "languages": [
         {
@@ -57,26 +71,8 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "20 Mini Projects only using the Front End ",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ 20 Mini Projects to get familiar with Front End Technologies such as Html, Css, Js",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
         }
       ]
     },
@@ -84,31 +80,17 @@
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
       "name": "Echo Bot",
       "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
+      "url": "https://github.com/manoj-chandran/restaurant-bot-telegram-",
       "description": "🚀  Customizable Telegram Bot for the College bot contains Event Update, food Order etc..",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "NodeJs",
+          "iconifyClass": "vscode-icons:file-type-node"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Telegram",
+          "iconifyClass": "logos:geekbot"
         }
       ]
     }
