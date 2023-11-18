@@ -9,11 +9,11 @@ const settings = {
 const seo = {
   title: "Manojkumar C",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A Passionate Individual who is intrest in Web Development and Digital Marketing . I am currently learning . Currently Learning Machine Learning . Founder Of Fresh Spar Technologies",
   og: {
     title: "Manojkumar Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "/",
   },
 };
 
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "manojchandran",
   nickname: "manoj__chandran",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A Passionate Individual who is intrest in Web Development and Digital Marketing . I am currently learning . Currently Learning Machine Learning .",
   resumeLink:
     "https://drive.google.com/file/d/1jG9gc74xWNQQkSDAeau-_A37NL3YJ2VE/view?usp=sharing",
   portfolio_repository: "https://github.com/manoj-chandran",
