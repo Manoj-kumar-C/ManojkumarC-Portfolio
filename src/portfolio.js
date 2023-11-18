@@ -26,8 +26,8 @@ const greeting = {
     "A Passionate Individual who is intrest in Web Development and Digital Marketing . I am currently learning . Currently Learning Machine Learning .",
   resumeLink:
     "https://drive.google.com/file/d/1jG9gc74xWNQQkSDAeau-_A37NL3YJ2VE/view?usp=sharing",
-  portfolio_repository: "https://github.com/manoj-chandran",
-  githubProfile: "https://github.com/manoj-chandran",
+  portfolio_repository: "https://github.com/Manoj-kumar-C",
+  githubProfile: "https://github.com/Manoj-kumar-C",
 };
 
 const socialMediaLinks = [
@@ -42,13 +42,13 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/manoj-chandran",
+    link: "https://github.com/Manoj-kumar-C",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/manoj--chandran/",
+    link: "https://www.linkedin.com/in/manojkumar--c/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -66,7 +66,7 @@ const socialMediaLinks = [
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/manoj__chandran",
+    link: "https://twitter.com/manoj_kumar__c",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
@@ -78,7 +78,7 @@ const socialMediaLinks = [
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/manoj._.chandran/",
+    link: "https://www.instagram.com/manojkumar._.c/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
