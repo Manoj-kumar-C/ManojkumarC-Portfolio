@@ -1,17 +1,17 @@
 {
   "data": [
     {
-      "login": "sympy",
+      "login": "KarmaDev.in",
       "avatarUrl": "https://avatars1.githubusercontent.com/u/260832?v=4",
       "__typename": "Organization"
     },
     {
-      "login": "scikit-learn",
+      "login": "Senchola University",
       "avatarUrl": "https://avatars2.githubusercontent.com/u/365630?v=4",
       "__typename": "Organization"
     },
     {
-      "login": "python",
+      "login": "A2ZTechvalley",
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1525981?v=4",
       "__typename": "Organization"
     }
