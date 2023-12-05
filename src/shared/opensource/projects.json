@@ -4,7 +4,7 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Spyder Templates",
       "createdAt": "2023-09-18T16:26:54Z",
-      "url": "https://github.com/manoj-chandran/MERN-E-Commerce-",
+      "url": "spydertemplates.tech",
       "description": "🔥 Best Marketplace for the Digital downloads such as HTML Templates, React js Templates, Angular, Flutter, Wordpress, Android etc including the combination of the Blog for Seo Optimization using Wordpress   ",
       "isFork": false,
       "languages": [
@@ -30,13 +30,17 @@
       "id": "R_kgDOG_vYHA",
       "name": "Blog App using Next Js",
       "createdAt": "2023-09-23T20:41:33Z",
-      "url": "https://github.com/manoj-chandran/Next-JS-BLog",
+      "url": "https://github.com/Manoj-kumar-C/Manojkumar-s-Blog",
       "description": "📦 A Full Stack Blog Application using Next Js and Contentlayer with MD inrtegration ",
       "isFork": false,
       "languages": [
         {
           "name": "NextJs",
           "iconifyClass": "logos:nextjs-icon"
+        },
+        {
+          "name": "Markdown",
+          "iconifyClass": "logos:markdown"
         }
       ]
     },

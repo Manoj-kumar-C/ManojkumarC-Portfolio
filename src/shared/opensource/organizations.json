@@ -14,6 +14,21 @@
       "login": "A2ZTechvalley",
       "avatarUrl": "https://avatars3.githubusercontent.com/u/1525981?v=4",
       "__typename": "Organization"
+    },
+    {
+      "login": "Griffinoxy",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1525981?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "Fresh Spar Technologies",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1525981?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "Spyder Templates",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1525981?v=4",
+      "__typename": "Organization"
     }
   ]
 }
