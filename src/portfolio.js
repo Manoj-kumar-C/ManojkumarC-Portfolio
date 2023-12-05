@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Manojkumar C",
   description:
-    "A Passionate Individual who is intrest in Full Stack Web Development and Digital Marketing . I am currently learning . Currently Learning Machine Learning . Founder Of Fresh Spar Technologies",
+    "A Passionate Individual in Full Stack Web Development and Digital Marketing . I am  Currently Learning Machine Learning ",
   og: {
     title: "Manojkumar Portfolio",
     type: "website",
@@ -21,9 +21,9 @@ const seo = {
 const greeting = {
   title: "Manojkumar C",
   logo_name: "manojchandran",
-  nickname: "manoj__chandran",
+  nickname: "manojkumar_c",
   subTitle:
-    "A Passionate Individual who is intrest in Web Development and Digital Marketing . I am currently learning . Currently Learning Machine Learning .",
+    "A Passionate Individual who is intrest in Web Development and Digital Marketing . I am  Currently Learning Machine Learning .",
   resumeLink:
     "https://drive.google.com/file/d/1jG9gc74xWNQQkSDAeau-_A37NL3YJ2VE/view?usp=sharing",
   portfolio_repository: "https://github.com/Manoj-kumar-C",
@@ -54,7 +54,7 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://www.youtube.com/@Manoj__Chandran",
+    link: "https://www.youtube.com/@Manojkumar_C",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
@@ -72,7 +72,7 @@ const socialMediaLinks = [
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/laymanbrother.19/",
+    link: "https://www.facebook.com/manojkumarcfb/",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
@@ -261,51 +261,51 @@ const skills = {
         },
       ],
     },
-    {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ I have more intrest in the Field of Machine Learning and in Data Science ",
-        "⚡ My Dream is to work in Computer Vision and NLP projects",
-        "⚡ In Future I will work in Complex quantitative modelling for dynamic forecasting and time series analysis",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
-      ],
-    },
+    // {
+    //   title: "Data Science & AI",
+    //   fileName: "DataScienceImg",
+    //   skills: [
+    //     "⚡ I have more intrest in the Field of Machine Learning and in Data Science ",
+    //     "⚡ My Dream is to work in Computer Vision and NLP projects",
+    //     "⚡ In Future I will work in Complex quantitative modelling for dynamic forecasting and time series analysis",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "Tensorflow",
+    //       fontAwesomeClassname: "logos-tensorflow",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Keras",
+    //       fontAwesomeClassname: "simple-icons:keras",
+    //       style: {
+    //         backgroundColor: "white",
+    //         color: "#D00000",
+    //       },
+    //     },
+    //     {
+    //       skillName: "PyTorch",
+    //       fontAwesomeClassname: "logos-pytorch",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Python",
+    //       fontAwesomeClassname: "ion-logo-python",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //         color: "#3776AB",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Deeplearning",
+    //       imageSrc: "deeplearning_ai_logo.png",
+    //     },
+    //   ],
+    // },
     {
       title: "UI/UX Design",
       fileName: "DesignImg",
