@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Manojkumar C",
   description:
-    "A Passionate Individual who is intrest in Web Development and Digital Marketing . I am currently learning . Currently Learning Machine Learning . Founder Of Fresh Spar Technologies",
+    "A Passionate Individual who is intrest in Full Stack Web Development and Digital Marketing . I am currently learning . Currently Learning Machine Learning . Founder Of Fresh Spar Technologies",
   og: {
     title: "Manojkumar Portfolio",
     type: "website",
