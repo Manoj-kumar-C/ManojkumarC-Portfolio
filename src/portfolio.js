@@ -259,6 +259,10 @@ const skills = {
           skillName: "MailChamp",
           imageSrc: "mailchimp.png",
         },
+        {
+          skillName: "Google Analytics",
+          imageSrc: "googleanalytics.png",
+        },
       ],
     },
     // {
