@@ -3,7 +3,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Spyder Templates",
-      "createdAt": "2023-09-18T16:26:54Z",
+      "createdAt": "2023",
       "url": "https://www.spydertemplates.tech",
       "description": "🔥 Best Marketplace for the Digital downloads such as HTML Templates, React js Templates, Angular, Flutter, Wordpress, Android etc including the combination of the Blog for Seo Optimization using Wordpress   ",
       "isFork": false,
@@ -29,7 +29,7 @@
     {
       "id": "R_kgDOG_vYHA",
       "name": "Blog App using Next Js",
-      "createdAt": "2023-09-23T20:41:33Z",
+      "createdAt": "2023",
       "url": "https://manojkumar-s-blog.vercel.app/",
       "description": "📦 A Full Stack Blog Application using Next Js and Contentlayer with MD inrtegration ",
       "isFork": false,
@@ -41,14 +41,18 @@
         {
           "name": "Markdown",
           "iconifyClass": "logos:markdown"
+        },
+        {
+          "name": "Content Layer",
+          "iconifyClass": "bxs:layer"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
       "name": "Animation Css",
-      "createdAt": "2021-02-11T14:50:20Z",
-      "url": "https://github.com/manoj-chandran/Animation.css",
+      "createdAt": "2021",
+      "url": "https://github.com/Manoj-kumar-C/Animation.css",
       "description": "🌀 My Own Customized Animation Library for the Developer Community .",
       "isFork": false,
       "languages": [
@@ -61,7 +65,7 @@
     {
       "id": "R_kgDOGcPKSQ",
       "name": "20 Mini Projects only using the Front End ",
-      "createdAt": "2021-11-26T17:56:07Z",
+      "createdAt": "2021",
       "url": "https://github.com/Manoj-kumar-C/20-Mini-Projects-Using-HTML-CSS-JS-before-New-Year-2022",
       "description": "⚙️ 20 Mini Projects to get familiar with Front End Technologies such as Html, Css, Js",
       "isFork": false,
@@ -83,8 +87,8 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
       "name": "Echo Bot",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/manoj-chandran/restaurant-bot-telegram-",
+      "createdAt": "2021",
+      "url": "https://github.com/Manoj-kumar-C/restaurant-bot-telegram-",
       "description": "🚀  Customizable Telegram Bot for the College bot contains Event Update, food Order etc..",
       "isFork": false,
       "languages": [
@@ -95,6 +99,40 @@
         {
           "name": "Telegram",
           "iconifyClass": "logos:geekbot"
+        },
+        {
+          "name": "Sheet",
+          "iconifyClass": "healthicons:spreadsheets"
+        },
+        {
+          "name": "Open Ai Api",
+          "iconifyClass": "logos:openai"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Youtube Clone using Next Js",
+      "createdAt": "2021",
+      "url": "https://github.com/manoj-chandran/restaurant-bot-telegram-",
+      "description": "🚀  An Entire Youtube clone using Next Js Framework",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Next Js",
+          "iconifyClass": "skill-icons:nextjs-dark"
+        },
+        {
+          "name": "Youtube Data Api",
+          "iconifyClass": "openmoji:youtube"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos:firebase"
+        },
+        {
+          "name": "Typescript",
+          "iconifyClass": "skill-icons:typescript"
         }
       ]
     }

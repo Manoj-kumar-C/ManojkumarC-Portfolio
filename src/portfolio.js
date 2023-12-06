@@ -263,6 +263,10 @@ const skills = {
           skillName: "Google Analytics",
           imageSrc: "googleanalytics.png",
         },
+        {
+          skillName: "Google Ads",
+          imageSrc: "google-ads.png",
+        },
       ],
     },
     // {
@@ -341,8 +345,15 @@ const skills = {
           },
         },
         {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
+          skillName: "Canva",
+          fontAwesomeClassname: "devicon:canva",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Premiere Pro",
+          fontAwesomeClassname: "simple-icons:adobepremierepro",
           style: {
             color: "#000000",
           },
