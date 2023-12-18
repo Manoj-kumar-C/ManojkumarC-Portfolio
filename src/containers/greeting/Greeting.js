@@ -49,7 +49,7 @@ export default function Greeting(props) {
 							alt="saad sitting on table"
 							src={require("../../assests/images/feelingProud.svg")}
 						></img> */}
-            <FeelingProud theme={theme} />
+            <FeelingProud />
           </div>
         </div>
       </div>

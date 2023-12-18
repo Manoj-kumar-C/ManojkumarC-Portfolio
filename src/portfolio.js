@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Manojkumar C",
-  logo_name: "manojchandran",
+  logo_name: "ManojKumar C",
   nickname: "manojkumar_c",
   subTitle:
     "A Passionate Individual who is intrest in Web Development and Digital Marketing . I am  Currently Learning Machine Learning .",
