@@ -26,6 +26,7 @@ class OrganizationList extends Component {
                       className="organizations-img"
                       src={logo["avatarUrl"]}
                       alt={logo["login"]}
+                      style={{ borderRadius: "50%" }}
                     />
                   </Fade>
                 </li>
