@@ -1,6 +1,11 @@
 {
   "data": [
     {
+      "login": "vercel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
+      "__typename": "Organization"
+    },
+    {
       "login": "KarmaDev.in",
       "avatarUrl": "https://github.com/Manoj-kumar-C/6-icons/releases/download/1/yang.png",
       "__typename": "Organization"
@@ -21,13 +26,13 @@
       "__typename": "Organization"
     },
     {
-      "login": "Fresh Spar Technologies",
-      "avatarUrl": "https://github.com/Manoj-kumar-C/6-icons/releases/download/1/freshspar.jpeg",
+      "login": "fresh-spar-technologies",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104640269?v=4",
       "__typename": "Organization"
     },
     {
-      "login": "Spyder Templates",
-      "avatarUrl": "https://github.com/Manoj-kumar-C/6-icons/releases/download/1/spydertemplates.jpeg",
+      "login": "Spyder-Templates",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/149954157?v=4",
       "__typename": "Organization"
     }
   ]

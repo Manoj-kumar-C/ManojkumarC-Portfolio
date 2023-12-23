@@ -1,38 +1,87 @@
 {
-  "closed": 47,
+  "closed": 4,
   "data": [
     {
-      "id": "I_kwDOAffHH85M2vjV",
-      "closed": false,
-      "title": "Class-Balanced Loss based on Effectivene number of examples",
-      "createdAt": "2022-06-30T00:02:58Z",
-      "url": "https://github.com/keras-team/keras/issues/",
-      "number": 16735,
+      "id": "I_kwDOGWIJFM55GjES",
+      "closed": true,
+      "title": "Steps to be done ",
+      "createdAt": "2023-12-08T01:09:03Z",
+      "url": "https://github.com/Manoj-kumar-C/Animation.css/issues/2",
+      "number": 2,
       "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-            "name": "Ashutosh Hathidara",
-            "url": "https://github.com/"
-          },
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/78194266?u=1270684640732eaea36ac2d1725160fec0747089&v=4",
-            "name": "divyasreepat",
-            "url": "https://github.com/divyashreepathihalli"
-          }
-        ]
+        "nodes": []
       },
       "repository": {
-        "name": "keras",
-        "url": "https://github.com/keras-team/keras",
+        "name": "Animation.css",
+        "url": "https://github.com/Manoj-kumar-C/Animation.css",
         "owner": {
-          "login": "keras-team",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/34455048?v=4",
-          "url": "https://github.com/keras-team"
+          "login": "Manoj-kumar-C",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90634510?u=540180c4bab16e20c25e8acc7a9e9519e869a1b4&v=4",
+          "url": "https://github.com/Manoj-kumar-C"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGWIJFM55GivN",
+      "closed": true,
+      "title": "Contribute needed",
+      "createdAt": "2023-12-08T01:07:16Z",
+      "url": "https://github.com/Manoj-kumar-C/Animation.css/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Animation.css",
+        "url": "https://github.com/Manoj-kumar-C/Animation.css",
+        "owner": {
+          "login": "Manoj-kumar-C",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90634510?u=540180c4bab16e20c25e8acc7a9e9519e869a1b4&v=4",
+          "url": "https://github.com/Manoj-kumar-C"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOBC3Cis53yZlO",
+      "closed": true,
+      "title": "I am unable able to deploy one of my blog application due to some issues . I am Unable to resolve it ",
+      "createdAt": "2023-11-24T13:06:08Z",
+      "url": "https://github.com/vercel/next.js/issues/58860",
+      "number": 58860,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "next.js",
+        "url": "https://github.com/vercel/next.js",
+        "owner": {
+          "login": "vercel",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
+          "url": "https://github.com/vercel"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIBqcy85SL3B-",
+      "closed": true,
+      "title": "Update using the git commands pa",
+      "createdAt": "2022-09-20T05:29:52Z",
+      "url": "https://github.com/srisubikshatss/flexslider/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "flexslider",
+        "url": "https://github.com/srisubikshatss/flexslider",
+        "owner": {
+          "login": "srisubikshatss",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/107641291?v=4",
+          "url": "https://github.com/srisubikshatss"
         }
       }
     }
   ],
-  "open": 11,
-  "totalCount": 58
+  "open": 0,
+  "totalCount": 4
 }
