@@ -717,9 +717,9 @@ const projectsHeader = {
 };
 
 const publicationsHeader = {
-  title: "Publications",
+  title: "Other Crazy projects ",
   description:
-    "I have worked on and published a few research papers and publications of my own.",
+    "There are some other funny and crazy repos available . Bcs I am  passion at coding (Hackathons , Practice etc ..)",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -727,38 +727,45 @@ const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
+      name: "Spam Alert System Dashboard",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url: "https://manoj--chandran.hashnode.dev/",
+      description: "Dashboard system for the Spam Alert System (Kavach)",
+      url: "https://github.com/Manoj-kumar-C/Dashboard-Spam-Alert-System",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
+      name: "Du Hacks",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url: "https://manoj--chandran.hashnode.dev/",
+      description: "An Innovative Hackathon conducted by DU HACKS",
+      url: "https://github.com/Manoj-kumar-C/DU-HACKS",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
+      name: "React Recap",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url: "https://manoj--chandran.hashnode.dev/",
+      description: "Practice to recap the react routing",
+      url: "https://github.com/Manoj-kumar-C/React-Router-Course-",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
+      name: "Learning the next js 14 the hard way ",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url: "https://manoj--chandran.hashnode.dev/",
+      description: "The learning of the next 14 the latest version",
+      url: "https://github.com/Manoj-kumar-C/Learning-Next-Js-the-Hard-Way-TS-",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
+      name: "Learning Express js the hard way",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url: "https://manoj--chandran.hashnode.dev/",
+      description: "PLearning the node and the express js Hands on practice . ",
+      url: "https://github.com/Manoj-kumar-C/Learn-Express-Js-Harder-Way",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
+      name: "Learning Express js the hard way",
+      createdAt: "2020-03-06T16:26:54Z",
+      description: "PLearning the node and the express js Hands on practice . ",
+      url: "https://github.com/Manoj-kumar-C/Learn-Express-Js-Harder-Way",
     },
   ],
 };
