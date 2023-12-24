@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Manojkumar C",
+  title: "Manojkumar",
   description:
     "A Passionate Individual in Full Stack Web Development and Digital Marketing . I am  Currently Learning Machine Learning ",
   og: {
