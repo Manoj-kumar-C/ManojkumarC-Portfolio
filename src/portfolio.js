@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Manojkumar",
+  title: "Manojkumar C",
   description:
     "A Passionate Individual in Full Stack Web Development and Digital Marketing . I am  Currently Learning Machine Learning ",
   og: {
@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Manojkumar C",
-  logo_name: "ManojKumar C",
+  logo_name: "ManojKumar",
   nickname: "manojkumar_c",
   subTitle:
     "A Passionate Individual who is intrest in Web Development and Digital Marketing . I am  Currently Learning Machine Learning .",
