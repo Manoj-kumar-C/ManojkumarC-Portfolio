@@ -70,17 +70,17 @@ export const redTheme = {
 };
 
 export const blackTheme = {
-  body: "#E5E5E5",
-  text: "#14213d",
+  body: "black",
+  text: "white",
   expTxtColor: "#000a12",
-  highlight: "#ffffff",
+  highlight: "black",
   dark: "#000000",
-  secondaryText: "#5A6377",
+  secondaryText: "#FFBF00",
   imageHighlight: "#fca311",
-  compImgHighlight: "#E6E6E6",
-  jacketColor: "#8d99ae",
-  headerColor: "#fca31177",
-  splashBg: "#14213d",
+  compImgHighlight: "#1E90FF",
+  jacketColor: "white",
+  headerColor: "#1E90FF",
+  splashBg: "orange",
 };
 
 export const pinkTheme = {
