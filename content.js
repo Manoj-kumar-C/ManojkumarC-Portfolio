@@ -253,59 +253,19 @@ const skills = {
       softwareSkills: [
         {
           skillName: "Buffer",
-          fontAwesomeClassname: "arcticons:buffer",
-          style: {
-            color: "#4285F4",
-          },
+          imageSrc: "Buffer-Logo.png",
         },
         {
-          skillName: "MailChimp",
-          fontAwesomeClassname: "logos:mailchimp-freddie",
-          style: {
-            color: "#FF9900",
-          },
+          skillName: "MailChamp",
+          imageSrc: "mailchimp.png",
         },
         {
           skillName: "Google Analytics",
-          fontAwesomeClassname: "logos:google-analytics",
-          style: {
-            color: "#0089D6",
-          },
+          imageSrc: "googleanalytics.png",
         },
         {
           skillName: "Google Ads",
-          fontAwesomeClassname: "logos:google-ads",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "Twilio",
-          fontAwesomeClassname: "logos:twilio",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "Sprout Social",
-          fontAwesomeClassname: "mdi:leaf",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Hot Jar",
-          fontAwesomeClassname: "logos:hotjar-icon",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Hubspot",
-          fontAwesomeClassname: "mdi:hubspot",
-          style: {
-            color: "#326CE5",
-          },
+          imageSrc: "google-ads.png",
         },
       ],
     },
@@ -395,7 +355,7 @@ const skills = {
           skillName: "Premiere Pro",
           fontAwesomeClassname: "simple-icons:adobepremierepro",
           style: {
-            color: "#ffffff",
+            color: "#000000",
           },
         },
       ],
