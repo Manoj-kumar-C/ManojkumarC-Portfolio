@@ -506,6 +506,24 @@ const certifications = {
       alt_name: "deeplearning.ai",
       color_code: "white",
     },
+    {
+      title: "Front End Web Development",
+      subtitle: "- Learn Tech plus ",
+      logo_path: "udemy_logo.png",
+      certificate_link:
+        "https://drive.google.com/drive/folders/1BKm_eUuHj4SiGuNqUiZ34OFVCCMFTMGr",
+      alt_name: "frontenddevelopment",
+      color_code: "white",
+    },
+    {
+      title: "Ethical Hacking",
+      subtitle: "- David Bombal ",
+      logo_path: "udemy_logo.png",
+      certificate_link:
+        "https://drive.google.com/drive/folders/1BKm_eUuHj4SiGuNqUiZ34OFVCCMFTMGr",
+      alt_name: "ethical hacking",
+      color_code: "green",
+    },
     // {
     //   title: "ML on GCP",
     //   subtitle: "- GCP Training",
