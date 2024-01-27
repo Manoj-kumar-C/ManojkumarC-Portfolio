@@ -2,37 +2,37 @@
   "data": [
     {
       "login": "vercel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
+      "avatarUrl": "https://github.com/Manoj-kumar-C/ManojkumarC-Portfolio/releases/download/0.1/vercel.png",
       "__typename": "Organization"
     },
     {
       "login": "KarmaDev.in",
-      "avatarUrl": "https://github.com/Manoj-kumar-C/6-icons/releases/download/1/yang.png",
+      "avatarUrl": "https://github.com/Manoj-kumar-C/ManojkumarC-Portfolio/releases/download/0.1/karmadev.in.jpeg",
       "__typename": "Organization"
     },
     {
       "login": "Senchola University",
-      "avatarUrl": "https://github.com/Manoj-kumar-C/6-icons/releases/download/1/senchola.jpg",
+      "avatarUrl": "https://github.com/Manoj-kumar-C/ManojkumarC-Portfolio/releases/download/0.1/senchola.jpeg",
       "__typename": "Organization"
     },
     {
       "login": "A2ZTechvalley",
-      "avatarUrl": "https://github.com/Manoj-kumar-C/6-icons/releases/download/1/a2ztechvalley.jpg",
+      "avatarUrl": "https://github.com/Manoj-kumar-C/ManojkumarC-Portfolio/releases/download/0.1/a2ztechvalley.jpeg",
       "__typename": "Organization"
     },
     {
       "login": "Griffinoxy",
-      "avatarUrl": "https://github.com/Manoj-kumar-C/6-icons/releases/download/1/griffinoxy.jpg",
+      "avatarUrl": "https://github.com/Manoj-kumar-C/ManojkumarC-Portfolio/releases/download/0.1/griffinoxy.png",
       "__typename": "Organization"
     },
     {
       "login": "fresh-spar-technologies",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/104640269?v=4",
+      "avatarUrl": "https://github.com/Manoj-kumar-C/ManojkumarC-Portfolio/releases/download/0.1/logo.jpg",
       "__typename": "Organization"
     },
     {
       "login": "Spyder-Templates",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/149954157?v=4",
+      "avatarUrl": "https://github.com/Manoj-kumar-C/ManojkumarC-Portfolio/releases/download/0.1/spydertemplates.png",
       "__typename": "Organization"
     }
   ]
