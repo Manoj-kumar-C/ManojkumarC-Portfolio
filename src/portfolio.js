@@ -23,9 +23,9 @@ const greeting = {
   logo_name: "ManojKumar",
   nickname: "manojkumar_c",
   subTitle:
-    "A Passionate Individual who is intrest in Web Development and Digital Marketing . I am  Currently Learning Machine Learning .",
+    "A Passionate Individual intrested in Full Stack Development and Marketing. I am  Currently Learning Data Analysis.",
   resumeLink:
-    "https://drive.google.com/file/d/1jG9gc74xWNQQkSDAeau-_A37NL3YJ2VE/view?usp=sharing",
+    "https://drive.google.com/file/d/1Alld2VUb_ViUNBU9FewCEVSQ0nau91Ij/view?usp=sharing",
   portfolio_repository: "https://github.com/Manoj-kumar-C",
   githubProfile: "https://github.com/Manoj-kumar-C",
 };
@@ -90,8 +90,8 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and in future using Kotlin",
+        "⚡ Building responsive websites using ShadCn Ui",
+        "⚡ Developing mobile applications using React Native Framework",
         "⚡ Creating application backend in Node, Express & Next Js",
       ],
       softwareSkills: [
@@ -160,13 +160,6 @@ const skills = {
           },
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-        {
           skillName: "Wordpress",
           fontAwesomeClassname: "skill-icons:wordpress",
           style: {
@@ -181,16 +174,16 @@ const skills = {
       skills: [
         "⚡ Experience working on multiple cloud platforms, Mainly in the domain of AWS and  Firebase",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Setting up streaming jobs from DB to Server or vice-versa on AWS",
       ],
       softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
+        // {
+        //   skillName: "GCP",
+        //   fontAwesomeClassname: "simple-icons:googlecloud",
+        //   style: {
+        //     color: "#4285F4",
+        //   },
+        // },
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -198,13 +191,13 @@ const skills = {
             color: "#FF9900",
           },
         },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
-        },
+        // {
+        //   skillName: "Azure",
+        //   fontAwesomeClassname: "simple-icons:microsoftazure",
+        //   style: {
+        //     color: "#0089D6",
+        //   },
+        // },
         {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
@@ -395,7 +388,7 @@ const skills = {
           skillName: "Premiere Pro",
           fontAwesomeClassname: "simple-icons:adobepremierepro",
           style: {
-            color: "#ffffff",
+            color: "#00ff5b",
           },
         },
       ],
@@ -799,21 +792,21 @@ const publications = {
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "React Recap",
+      name: "Learn Express Js Harder Way",
       createdAt: "2020-03-06T16:26:54Z",
       description: "Practice to recap the react routing",
       url: "https://github.com/Manoj-kumar-C/React-Router-Course-",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Learning the next js 14 the hard way ",
+      name: "Learn Data Analytics with Python ",
       createdAt: "2020-03-06T16:26:54Z",
       description: "The learning of the next 14 the latest version",
       url: "https://github.com/Manoj-kumar-C/Learning-Next-Js-the-Hard-Way-TS-",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Learning Express js the hard way",
+      name: "Algorithms Interview Preparations",
       createdAt: "2020-03-06T16:26:54Z",
       description: "PLearning the node and the express js Hands on practice . ",
       url: "https://github.com/Manoj-kumar-C/Learn-Express-Js-Harder-Way",

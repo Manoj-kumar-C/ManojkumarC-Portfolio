@@ -28,9 +28,9 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "Blog App using Next Js",
+      "name": "Manojkumar Blog",
       "createdAt": "2023",
-      "url": "https://manojkumar-s-blog.vercel.app/",
+      "url": "https://manojkumar-c-blog.vercel.app/",
       "description": "📦 A Full Stack Blog Application using Next Js and Contentlayer with MD inrtegration ",
       "isFork": false,
       "languages": [
@@ -50,7 +50,7 @@
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "Animation Css",
+      "name": "Spam Alert System",
       "createdAt": "2021",
       "url": "https://github.com/Manoj-kumar-C/Animation.css",
       "description": "🌀 My Own Customized Animation Library for the Developer Community .",
@@ -64,7 +64,7 @@
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "20 Mini Projects only using the Front End ",
+      "name": "Sophia Ai Saas",
       "createdAt": "2021",
       "url": "https://github.com/Manoj-kumar-C/20-Mini-Projects-Using-HTML-CSS-JS-before-New-Year-2022",
       "description": "⚙️ 20 Mini Projects to get familiar with Front End Technologies such as Html, Css, Js",
@@ -86,7 +86,7 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "Echo Bot",
+      "name": "Crack It App",
       "createdAt": "2021",
       "url": "https://github.com/Manoj-kumar-C/restaurant-bot-telegram-",
       "description": "🚀  Customizable Telegram Bot for the College bot contains Event Update, food Order etc..",
@@ -112,7 +112,7 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "Youtube Clone using Next Js",
+      "name": "Echo Bot Ai Telegram Bot ",
       "createdAt": "2021",
       "url": "https://github.com/manoj-chandran/restaurant-bot-telegram-",
       "description": "🚀  An Entire Youtube clone using Next Js Framework",
