@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://manojkumar-c.vercel.app/</loc>
+	<lastmod>2024-04-03T19:00:44+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://manojkumar-c.vercel.app/home</loc>
+	<lastmod>2024-04-03T19:00:44+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://manojkumar-c.vercel.app/education</loc>
+	<lastmod>2024-04-03T19:00:44+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://manojkumar-c.vercel.app/experience</loc>
+	<lastmod>2024-04-03T19:00:44+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://manojkumar-c.vercel.app/projects</loc>
+	<lastmod>2024-04-03T19:00:44+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://manojkumar-c.vercel.app/opensource</loc>
+	<lastmod>2024-04-03T19:00:44+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://manojkumar-c.vercel.app/contact</loc>
+	<lastmod>2024-04-03T19:00:44+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://manojkumar-c.vercel.app/splash</loc>
+	<lastmod>2024-04-03T19:00:44+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
