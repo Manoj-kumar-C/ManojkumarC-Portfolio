@@ -22,8 +22,7 @@ const greeting = {
   title: "Manojkumar C",
   logo_name: "ManojKumar",
   nickname: "manojkumar_c",
-  subTitle:
-    "A Passionate Individual intrested in Full Stack Development and Marketing. I am  Currently Learning Data Analysis.",
+  subTitle: "Full Stack Developer , Digital Marketer, Business Analyst",
   resumeLink:
     "https://drive.google.com/file/d/1Alld2VUb_ViUNBU9FewCEVSQ0nau91Ij/view?usp=sharing",
   portfolio_repository: "https://github.com/Manoj-kumar-C",
