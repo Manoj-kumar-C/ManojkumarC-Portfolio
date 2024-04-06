@@ -11,7 +11,7 @@ const seo = {
   description:
     "Founder of Fresh Spar Technologies. I'm a Full Stack Developer, Digital Marketer, Business Analyst",
   og: {
-    title: "Manojkumar Portfolio",
+    title: "Manojkumar Portfolio (Fresh Spar Technologies)",
     type: "website",
     url: "/",
   },
