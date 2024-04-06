@@ -15,6 +15,14 @@ export default function PublicationCard({ pub, theme }) {
     >
       <Fade bottom duration={2000} distance="40px">
         <div key={pub.id} onClick={() => openPubinNewTab(pub.url)}>
+          {/* 
+        <img
+            src={require(`../../assests/projects/blog.png`)}
+            alt={pub.name}
+            className="publication-image"
+            style={{ borderRadius: "5%", maxWidth: "100%", height: "auto" }}
+          />
+          */}
           <div className="publication-name-div">
             <p className="publication-name" style={{ color: theme.text }}>
               {pub.name}
