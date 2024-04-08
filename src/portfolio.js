@@ -405,7 +405,7 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/manoj-chandran/",
+      profileLink: "https://leetcode.com/manojkumar-c/",
     },
     {
       siteName: "HackerRank",
@@ -413,7 +413,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/manoj_chandran",
+      profileLink: "https://www.hackerrank.com/profile/manojkumarc",
     },
     {
       siteName: "Codechef",
@@ -437,7 +437,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@manoj-chandran",
+      profileLink: "https://www.hackerearth.com/@manojkumar_c",
     },
     {
       siteName: "Kaggle",
