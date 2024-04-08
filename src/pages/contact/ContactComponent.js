@@ -30,6 +30,7 @@ class Contact extends Component {
                   alt=""
                 />
               </div>
+
               <div className="contact-heading-text-div">
                 <h1
                   className="contact-heading-text"
@@ -55,6 +56,7 @@ class Contact extends Component {
               </div>
             </div>
           </Fade>
+          <br />
           <Fade bottom duration={1000} distance="40px">
             <div className="blog-heading-div">
               <div className="blog-heading-text-div">
