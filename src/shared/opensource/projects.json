@@ -141,6 +141,60 @@
           "iconifyClass": "skill-icons:typescript"
         }
       ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Fresh Spar Technologies",
+      "images": "fresh_spar.png",
+      "createdAt": "2024",
+      "url": "https://github.com/Manoj-kumar-C/",
+      "description": "🚀  My Company Website - Fresh Spar Technologies",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Next Js",
+          "iconifyClass": "skill-icons:nextjs-dark"
+        },
+        {
+          "name": "Youtube Data Api",
+          "iconifyClass": "openmoji:youtube"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos:firebase"
+        },
+        {
+          "name": "Typescript",
+          "iconifyClass": "skill-icons:typescript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Mokka Creators",
+      "images": "mokka_creators.png",
+      "createdAt": "2024",
+      "url": "https://github.com/Manoj-kumar-C/",
+      "description": "🚀  My Company Website - Mokka Creators",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Next Js",
+          "iconifyClass": "skill-icons:nextjs-dark"
+        },
+        {
+          "name": "Youtube Data Api",
+          "iconifyClass": "openmoji:youtube"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos:firebase"
+        },
+        {
+          "name": "Typescript",
+          "iconifyClass": "skill-icons:typescript"
+        }
+      ]
     }
   ]
 }
