@@ -29,7 +29,7 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "Manojkumar Blog",
+      "name": "Manojkumar's Blog",
       "images": "blog.png",
       "createdAt": "2023",
       "url": "https://manojkumar-c-blog.vercel.app/",
@@ -55,8 +55,8 @@
       "name": "Spam Alert System",
       "images": "spam_alert.png",
       "createdAt": "2021",
-      "url": "https://github.com/Manoj-kumar-C/Animation.css",
-      "description": "🌀 My Own Customized Animation Library for the Developer Community .",
+      "url": "https://github.com/Manoj-kumar-C/Dashboard-Spam-Alert-Final",
+      "description": "🌀 An Spam Detection system which has a mobile app and monitoring dashboard which detects spam calls, messages, mails etc.",
       "isFork": false,
       "languages": [
         {
@@ -70,8 +70,8 @@
       "name": "Sophia Ai Saas",
       "images": "sophia_ai.png",
       "createdAt": "2021",
-      "url": "https://github.com/Manoj-kumar-C/20-Mini-Projects-Using-HTML-CSS-JS-before-New-Year-2022",
-      "description": "⚙️ 20 Mini Projects to get familiar with Front End Technologies such as Html, Css, Js",
+      "url": "https://sophia-ai-saas.vercel.app/",
+      "description": "Sophia Ai Saas which is a youtube cms clone and contains digital marketing tools",
       "isFork": false,
       "languages": [
         {
@@ -147,7 +147,7 @@
       "name": "Fresh Spar Technologies",
       "images": "fresh_spar.png",
       "createdAt": "2024",
-      "url": "https://github.com/Manoj-kumar-C/",
+      "url": "https://freshspar.com/",
       "description": "🚀  My Company Website - Fresh Spar Technologies",
       "isFork": false,
       "languages": [
@@ -174,7 +174,7 @@
       "name": "Mokka Creators",
       "images": "mokka_creators.png",
       "createdAt": "2024",
-      "url": "https://github.com/Manoj-kumar-C/",
+      "url": "https://github.com/Manoj-kumar-C/Mokka-Creators",
       "description": "🚀  My Company Website - Mokka Creators",
       "isFork": false,
       "languages": [
