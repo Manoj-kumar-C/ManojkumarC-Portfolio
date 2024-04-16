@@ -833,7 +833,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://manoj--chandran.hashnode.dev/",
+    link: "https://manojkumarc.hashnode.dev/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
@@ -845,7 +845,7 @@ const contactPageData = {
     postalCode: "641008",
     streetAddress: "Bk Pudur",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/6Zh3bEYQmFCax6Ly5",
+    location_map_link: "https://maps.app.goo.gl/qinnRJm7geQFssyK6",
   },
   phoneSection: {
     title: "Phone",
