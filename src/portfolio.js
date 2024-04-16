@@ -644,7 +644,7 @@ const experience = {
         },
         {
           title: "Backend Developer",
-          company: "Fresh Spar",
+          company: "Fresh Spar Technologies",
           company_url:
             "https://in.linkedin.com/company/fresh-spar-technologies",
           logo_path: "fresh_logo.jpeg",
@@ -679,7 +679,7 @@ const experience = {
           duration: "Aug 2023 - Dec 2023",
           location: "Coimbatore",
           description:
-            "Involved in the development of the Social Media Application for the Sechola Internship Students.",
+            "Involved in the development of the Social Media Application for the Sechola Internship Students. I have developed about 3 mobile apps during the period of the internship. It helps alot to gain knowledge about the mobile app development",
           color: "#000000",
         },
         {
@@ -690,7 +690,7 @@ const experience = {
           duration: "May 2019 - Sept 2019",
           location: "Erode, TamilNadu",
           description:
-            "My First Work in a Startup company called Karma Developers, I am Proud to be a part in the Company . Founder Name Called Sanjay . Really a Hard Working Person",
+            "My First Work in a Startup company called Karma Developers, I am Proud to be a part in the Company . Founder Name Called Sanjay . Really a Hard Working Person . I have done some front end development projects and digital marketing strategies in that startup company ",
           color: "#ee3c26",
         },
       ],
@@ -743,17 +743,17 @@ const experience = {
         //     "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
         //   color: "#0C9D58",
         // },
-        // {
-        //   title: "Developer Program Member",
-        //   company: "Github",
-        //   company_url: "https://github.com/",
-        //   logo_path: "github_logo.png",
-        //   duration: "July 2019 - PRESENT",
-        //   location: "Work From Home",
-        //   description:
-        //     "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-        //   color: "#181717",
-        // },
+        {
+          title: "Developer Program Member",
+          company: "Github",
+          company_url: "https://github.com/",
+          logo_path: "github_logo.png",
+          duration: "July 2019 - PRESENT",
+          location: "Work From Home",
+          description:
+            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+          color: "#ffffff",
+        },
       ],
     },
   ],

@@ -76,6 +76,7 @@ class ExperienceCard extends Component {
                       href={experience["company_url"]}
                       target="_blank"
                       rel="noopener noreferrer"
+                      style={{ color: "lightblue" }}
                     >
                       {experience["company"]}
                     </a>
