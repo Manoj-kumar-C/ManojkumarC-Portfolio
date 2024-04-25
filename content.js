@@ -11,7 +11,7 @@ const seo = {
   description:
     "A Passionate Individual in Full Stack Web Development and Digital Marketing . I am  Currently Learning Machine Learning ",
   og: {
-    title: "Manojkumar Portfolio",
+    title: "Manojkumar C Portfolio",
     type: "website",
     url: "/",
   },
