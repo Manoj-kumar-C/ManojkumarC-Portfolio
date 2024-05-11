@@ -77,12 +77,6 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
-  {
-    name: "Linktree",
-    link: "https://linktr.ee/manojkumar_c",
-    fontAwesomeIcon: "fa-link", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#00000", // Reference https://simpleicons.org/?q=instagram
-  },
 ];
 
 const skills = {
