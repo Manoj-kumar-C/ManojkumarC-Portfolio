@@ -81,7 +81,7 @@ const socialMediaLinks = [
     name: "Linktree",
     link: "https://linktr.ee/manojkumar_c",
     fontAwesomeIcon: "fa-link", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#43e660", // Reference https://simpleicons.org/?q=instagram
+    backgroundColor: "#00000", // Reference https://simpleicons.org/?q=instagram
   },
 ];
 
