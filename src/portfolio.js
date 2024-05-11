@@ -78,10 +78,10 @@ const socialMediaLinks = [
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
   {
-    name: "Instagram",
-    link: "https://www.instagram.com/manojkumar._.c/",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+    name: "Linktree",
+    link: "https://linktr.ee/manojkumar_c",
+    fontAwesomeIcon: "fa-link", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#43e660", // Reference https://simpleicons.org/?q=instagram
   },
 ];
 
