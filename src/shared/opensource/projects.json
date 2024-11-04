@@ -67,6 +67,29 @@
     },
     {
       "id": "R_kgDOGcPKSQ",
+      "name": "Sde Roadmaps",
+      "images": "sde-roadmap.png",
+      "createdAt": "2024",
+      "url": "https://sde-roadmap-alpha.vercel.app/",
+      "description": "Sophia Ai Saas which is a youtube cms clone and contains digital marketing tools",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "NextJs",
+          "iconifyClass": "logos:nextjs-icon"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
       "name": "Sophia Ai Saas",
       "images": "sophia_ai.png",
       "createdAt": "2021",
