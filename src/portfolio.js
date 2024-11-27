@@ -7,13 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title:
-    "Manojkumar C (Fresh Spar Technologies) | Personal Portfolio | Explore with mano",
+  title: "Manojkumar Chandrasekar | Personal Portfolio ",
   description:
     "Founder of Fresh Spar Technologies. I'm a Full Stack Developer, Digital Marketer, Business Analyst",
   og: {
-    title:
-      "Manojkumar Portfolio (Fresh Spar Technologies) | Personal Portfolio | Explore with mano",
+    title: "Manojkumar Chandrasekar | Personal Portfolio ",
     type: "website",
     url: "/",
   },
