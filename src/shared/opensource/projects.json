@@ -10,8 +10,16 @@
       "isFork": false,
       "languages": [
         {
+          "name": "NextJs",
+          "iconifyClass": "logos:nextjs-icon"
+        },
+        {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     },
@@ -48,8 +56,8 @@
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "NextJs",
+          "iconifyClass": "logos:nextjs-icon"
         },
         {
           "name": "CSS",
