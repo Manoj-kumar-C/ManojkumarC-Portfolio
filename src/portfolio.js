@@ -23,8 +23,7 @@ const greeting = {
   logo_name: "ManojKumar",
   nickname: "manojkumar_c",
   subTitle: "Full Stack Developer , Digital Marketer, Cloud & DevOps Engr",
-  resumeLink:
-    "https://drive.google.com/file/d/1Alld2VUb_ViUNBU9FewCEVSQ0nau91Ij/view?usp=sharing",
+  resumeLink: "/resume/Manojkumar_C_Full_Stack_Dev.pdf",
   portfolio_repository: "https://github.com/Manoj-kumar-C",
   githubProfile: "https://github.com/Manoj-kumar-C",
 };
@@ -799,20 +798,20 @@ const publications = {
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
       name: "Learn Data Analytics with Python ",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "The learning of the next 14 the latest version",
+      createdAt: "2024-03-06T16:26:54Z",
+      description: "My Data Analytics Projects",
       url: "https://github.com/Manoj-kumar-C/Learning-Next-Js-the-Hard-Way-TS-",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
       name: "Algorithms Interview Preparations",
-      createdAt: "2020-03-06T16:26:54Z",
+      createdAt: "2024-03-06T16:26:54Z",
       description: "PLearning the node and the express js Hands on practice . ",
       url: "https://github.com/Manoj-kumar-C/Learn-Express-Js-Harder-Way",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Learning Express js the hard way",
+      name: "Defi Tracker",
       createdAt: "2020-03-06T16:26:54Z",
       description: "PLearning the node and the express js Hands on practice . ",
       url: "https://github.com/Manoj-kumar-C/Learn-Express-Js-Harder-Way",
