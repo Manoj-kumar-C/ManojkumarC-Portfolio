@@ -4,7 +4,7 @@
       "id": "R_kgDOG0_8uQ",
       "name": "Spam Alert System",
       "images": "spam_alert.png",
-      "createdAt": "2021",
+      "createdAt": "2023",
       "url": "https://github.com/Manoj-kumar-C/Dashboard-Spam-Alert-Final",
       "description": "🌀 An Spam Detection system which has a mobile app and monitoring dashboard which detects spam calls, messages, mails etc.",
       "isFork": false,
@@ -45,12 +45,20 @@
           "iconifyClass": "logos:nextjs-icon"
         },
         {
+          "name": "TailwindCSS",
+          "iconifyClass": "simple-icons:tailwindcss"
+        },
+        {
           "name": "Shadcn UI",
           "iconifyClass": "simple-icons:shadcnui"
         },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-firebase"
+        },
+        {
+          "name": "ExpressJs",
+          "iconifyClass": "simple-icons:express"
         }
       ]
     },
@@ -58,7 +66,7 @@
       "id": "R_kgDOGcPKSQ",
       "name": "Sophia Ai Saas",
       "images": "sophia_ai.png",
-      "createdAt": "2021",
+      "createdAt": "2024",
       "url": "https://sophia-ai-saas.vercel.app/",
       "description": "Sophia Ai Saas which is a youtube cms clone and contains digital marketing tools",
       "isFork": false,
@@ -68,12 +76,20 @@
           "iconifyClass": "logos:nextjs-icon"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "TailwindCSS",
+          "iconifyClass": "simple-icons:tailwindcss"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "TypeScript",
+          "iconifyClass": "skill-icons:typescript"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "devicon:firebase"
+        },
+        {
+          "name": "Payments",
+          "iconifyClass": "material-symbols:payments-outline"
         }
       ]
     },
@@ -119,7 +135,7 @@
         },
         {
           "name": "Markdown",
-          "iconifyClass": "logos:markdown"
+          "iconifyClass": "skill-icons:markdown-light"
         },
         {
           "name": "Content Layer",
