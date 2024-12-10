@@ -14,12 +14,20 @@
           "iconifyClass": "logos:nextjs-icon"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "TailwindCSS",
+          "iconifyClass": "skill-icons:tailwindcss-dark"
         },
         {
           "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "iconifyClass": "skill-icons:javascript"
+        },
+        {
+          "name": "AndroidStudio",
+          "iconifyClass": "skill-icons:androidstudio-light"
+        },
+        {
+          "name": "AI/ML Models",
+          "iconifyClass": "eos-icons:ai"
         }
       ]
     },
@@ -29,7 +37,7 @@
       "images": "sde-roadmap.png",
       "createdAt": "2024",
       "url": "https://sde-roadmap-alpha.vercel.app/",
-      "description": "Sophia Ai Saas which is a youtube cms clone and contains digital marketing tools",
+      "description": "Sde Roadmaps for Enhancing the Learning platform for Software Engineers and Developers",
       "isFork": false,
       "languages": [
         {
@@ -37,12 +45,12 @@
           "iconifyClass": "logos:nextjs-icon"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Shadcn UI",
+          "iconifyClass": "simple-icons:shadcnui"
         },
         {
           "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "iconifyClass": "logos-firebase"
         }
       ]
     },
@@ -119,7 +127,6 @@
         }
       ]
     },
-    
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
       "name": "Crack It App",
