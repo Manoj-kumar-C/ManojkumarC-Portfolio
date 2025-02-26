@@ -32,6 +32,37 @@
       ]
     },
     {
+      "id": "R_kgDOG0_8uW",
+      "name": "Defi Tracker - A Fintech Advisor",
+      "images": "defitracker.png",
+      "createdAt": "2025",
+      "url": "https://defi-tracker-web.vercel.app/",
+      "description": "🌀 Track investments, analyze markets, and make informed financial decisions with our comprehensive suite of tools",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "NextJs",
+          "iconifyClass": "logos:nextjs-icon"
+        },
+        {
+          "name": "TailwindCSS",
+          "iconifyClass": "skill-icons:tailwindcss-dark"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "skill-icons:firebase"
+        },
+        {
+          "name": "AndroidStudio",
+          "iconifyClass": "skill-icons:androidstudio-light"
+        },
+        {
+          "name": "AI/ML Models",
+          "iconifyClass": "eos-icons:ai"
+        }
+      ]
+    },
+    {
       "id": "R_kgDOGcPKSQ",
       "name": "Sde Roadmaps",
       "images": "sde-roadmap.png",
