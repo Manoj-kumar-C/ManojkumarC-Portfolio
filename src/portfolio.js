@@ -635,7 +635,7 @@ const experience = {
           company_url:
             "https://in.linkedin.com/company/fresh-spar-technologies",
           logo_path: "fresh_logo.jpeg",
-          duration: "May 2021 - Oct 2023",
+          duration: "May 2021 - present",
           location: "Coimbatore, TamilNadu",
           description: " I started my freelancing by the name of Fresh Spar Technologies in 2021. Developed about more than 10 projects which improves their profits by more than 10%.",
           color: "#9b1578",
@@ -650,7 +650,7 @@ const experience = {
           title: "Junior Software Engineer - Intern",
           company: "Scoutabroad Pvt Ltd",
           company_url: "https://scoutabroad.com/",
-          logo_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-9nE2PpuAzTlK0GkquvmmTVAXgX-Kjg3ug&s",
+          logo_path: "fresh_logo.jpeg",
           duration: "Nov 2024 - Jan 2025",
           location: "Remote",
           description:
