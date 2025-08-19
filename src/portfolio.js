@@ -630,45 +630,33 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Full Stack Web Developer",
-          company: "A2zTechvalley",
-          company_url: "https://a2ztechvalley.com/",
-          logo_path: "A2Z_logo.jpeg",
-          duration: "June 2021 - Aug 2023",
-          location: "Coimbatore, TamilNadu",
-          description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
-        },
-        {
-          title: "Backend Developer",
+          title: "Freelancing",
           company: "Fresh Spar Technologies",
           company_url:
             "https://in.linkedin.com/company/fresh-spar-technologies",
           logo_path: "fresh_logo.jpeg",
           duration: "May 2021 - Oct 2023",
           location: "Coimbatore, TamilNadu",
-          description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+          description: " I started my freelancing by the name of Fresh Spar Technologies in 2021. Developed about more than 10 projects which improves their profits by more than 10%.",
           color: "#9b1578",
         },
-        {
-          title: "Front End Developer and Digital Marketer",
-          company: "KarmaDev Pvt. Ltd.",
-          company_url:
-            "https://www.linkedin.com/company/karma-dev/?originalSubdomain=in",
-          logo_path: "karma_logo.jpeg",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Erode, TamilNadu",
-          description:
-            "KarmaDev is the Start up from Vellalar Institute Of Technology, TamilNadu. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People and Digital Marketing.",
-          color: "#fc1f20",
-        },
+        
       ],
     },
     {
       title: "Internships",
       experiences: [
+        {
+          title: "Junior Software Engineer - Intern",
+          company: "Scoutabroad Pvt Ltd",
+          company_url: "https://scoutabroad.com/",
+          logo_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-9nE2PpuAzTlK0GkquvmmTVAXgX-Kjg3ug&s",
+          duration: "Nov 2024 - Jan 2025",
+          location: "Remote",
+          description:
+            " Automated marketing workflows, boosting productivity and efficiency by 30%, resulting in improved client engagement and campaign performance. Streamlined deployments with Azure DevOps  pipelines, cutting deployment time by 40%",
+          color: "#000000",
+        },
         {
           title: "Flutter Mobile App Developer ",
           company: "Senchola University",
